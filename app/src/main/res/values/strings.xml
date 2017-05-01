@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimeAllot</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+    <string name="task_name">Enter your activity</string>
+    <string name="duration">duration</string>
+    <string name="delete">delete</string>
+    <string name="intro_text">Start adding to your schedule with \"+\"</string>
+    <string name="start">Start!</string>
+    <string name="default_task_name">Unnamed Task</string>
+</resources>
